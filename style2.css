@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(226, 233, 234);
+}
+.img {
+    width: 200px;
+
+}
+.button :hover {
+    color: red
+}
